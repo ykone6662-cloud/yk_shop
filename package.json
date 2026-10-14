@@ -1,0 +1,13 @@
+{
+  "name": "yk-shop-netlify",
+  "private": true,
+  "version": "1.0.0",
+  "description": "YK Shop storefront and API for Netlify",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "mysql2": "3.14.1"
+  }
+}
